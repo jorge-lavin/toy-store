@@ -1,5 +1,7 @@
 # Toy Store
 
+[![Build Status](https://travis-ci.com/lavinj87/toy-store.svg?branch=master)](https://travis-ci.com/lavinj87/toy-store)
+
 `Toy Store` is a **toy** implementation of a key-value in memory **store**.
 
 ## Contents
