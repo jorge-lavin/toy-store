@@ -1,0 +1,11 @@
+# Compled files
+build/
+
+# Gradle local distribution
+.gradle
+gradle/
+gradlew
+gradlew.bat
+
+# IntelliJ
+.idea
