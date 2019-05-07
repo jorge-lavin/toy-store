@@ -1,4 +1,6 @@
-<img src="assets/logo.png" height="64px"/>
+<p align="center">
+    <img src="assets/logo.png" height="99px"/>
+</p>                                            
 
 [![Build Status](https://travis-ci.com/lavinj87/toy-store.svg?branch=master)](https://travis-ci.com/lavinj87/toy-store) 
 
